@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CineEnigma</string>
+    <string name="noteScenario">note du Scenario</string>
+    <string name="noteRealisateur">note du Realisateur</string>
+    <string name="noteMusique">note de la Musique</string>
+    <string name="critique">Description / Critique</string>
+    <string name="titre">Titre du film</string>
+    <string name="dateProjection">Date de projection</string>
+    <string name="heureProjection">Heure de projection</string>
+</resources>
